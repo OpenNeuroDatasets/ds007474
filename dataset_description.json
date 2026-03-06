@@ -1,0 +1,25 @@
+{
+  "Name": "2-step task MBMF fMRI dataset",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "License": "",
+  "Authors": [
+    "",
+    "",
+    ""
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "EthicsApprovals": [""],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:"
+}
