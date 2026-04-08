@@ -34,7 +34,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Scarlet Cho
+      - name: Scarlet J. Cho
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -53,14 +53,14 @@ data:
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
-        contributorType: Researcher
+        contributorType: Supervisor
         order: 7
       - name: Reza Tadayonnejad
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
-        contributorType: Researcher
+        contributorType: Supervisor
         order: 8
       - name: John P. O'Doherty
         givenName: ''
@@ -79,7 +79,7 @@ data:
         nameType: Personal
       - name: Amogh Johri
         nameType: Personal
-      - name: Scarlet Cho
+      - name: Scarlet J. Cho
         nameType: Personal
       - name: Sarah Oh
         nameType: Personal
