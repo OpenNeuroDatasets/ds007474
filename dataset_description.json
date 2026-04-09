@@ -1,25 +1,27 @@
 {
-  "Name": "2-step task MBMF fMRI dataset",
-  "BIDSVersion": "1.7.0",
-  "DatasetType": "raw",
-  "License": "",
-  "Authors": [
-    "",
-    "",
-    ""
-  ],
-  "Acknowledgements": "",
-  "HowToAcknowledge": "",
-  "Funding": [
-    "",
-    "",
-    ""
-  ],
-  "EthicsApprovals": [""],
-  "ReferencesAndLinks": [
-    "",
-    "",
-    ""
-  ],
-  "DatasetDOI": "doi:"
+    "Name": "2-step task dataset on model-based and model-free reinforcement learning ",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "",
+        "",
+        ""
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "",
+        "",
+        ""
+    ],
+    "EthicsApprovals": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "",
+        "",
+        ""
+    ],
+    "DatasetDOI": "doi:"
 }
