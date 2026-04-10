@@ -14,14 +14,14 @@
         "Reza Tadayonnejad",
         "John P. O'Doherty"
     ],
-    "Acknowledgements": "We thank Julian Michael Tyszka from the Caltech Brain Imaging Center for assistance with the functional neuroimaging. We thank Emmily Hovhannisyan from UCLA for help in participant recruitment. This dataset was supported by a grant from the National Institute of Mental Health (R01MH121089) to J.P.O.D ",
+    "Acknowledgements": "We thank Julian Michael Tyszka from the California Institute of Technology Brain Imaging Center for assistance with the functional neuroimaging. We thank Emmily Hovhannisyan from the University of California, Los Angeles for help in participant recruitment. This dataset was supported by a grant from the National Institute of Mental Health (R01MH121089) to J.P.O.D.. ",
     "HowToAcknowledge": "",
     "Funding": [
-        "NIH R01MH121089"
+        "National Institutes of Health R01MH121089"
     ],
     "EthicsApprovals": [
-        "UCLA 19-002267",
-        "Caltech 19-0914"
+        "University of California, Los Angeles (UCLA) 19-002267",
+        "California Institute of Technology (Caltech) 19-0914"
     ],
     "ReferencesAndLinks": [
         "Preprint: https://www.biorxiv.org/content/10.1101/2025.09.17.676398",
