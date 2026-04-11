@@ -3,63 +3,72 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Jeffrey Cockburn
+      - name: Weilun Ding
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Julia Pia Simon
+      - name: Jeffrey Cockburn
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Amogh Johri
+      - name: Julia Pia Simon
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Scarlet J. Cho
+      - name: Amogh Johri
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Sarah Oh
+      - name: Scarlet J. Cho
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
+      - name: Sarah Oh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
       - name: Jamie D. Feusner
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 6
+        order: 7
       - name: Reza Tadayonnejad
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 7
+        order: 8
       - name: John P. O'Doherty
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 8
+        order: 9
     creators:
+      - name: Weilun Ding
+        nameType: Personal
       - name: Jeffrey Cockburn
         nameType: Personal
       - name: Julia Pia Simon
