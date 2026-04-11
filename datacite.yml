@@ -3,76 +3,63 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Weilun Ding
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0009-0001-5457-0012
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 1
       - name: Jeffrey Cockburn
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 2
+        order: 1
       - name: Julia Pia Simon
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 3
+        order: 2
       - name: Amogh Johri
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 4
+        order: 3
       - name: Scarlet J. Cho
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 5
+        order: 4
       - name: Sarah Oh
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 6
+        order: 5
       - name: Jamie D. Feusner
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 7
+        order: 6
       - name: Reza Tadayonnejad
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 8
+        order: 7
       - name: John P. O'Doherty
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 9
+        order: 8
     creators:
-      - name: Weilun Ding
-        nameType: Personal
-        nameIdentifiers: *ref_0
       - name: Jeffrey Cockburn
         nameType: Personal
       - name: Julia Pia Simon
