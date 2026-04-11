@@ -59,6 +59,16 @@ data:
         nameIdentifiers: []
         contributorType: Supervisor
         order: 8
+      - name: Weilun Ding
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0001-5457-0012
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 9
     creators:
       - name: Jeffrey Cockburn
         nameType: Personal
@@ -76,6 +86,9 @@ data:
         nameType: Personal
       - name: John P. O'Doherty
         nameType: Personal
+      - name: Weilun Ding
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
