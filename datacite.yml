@@ -3,62 +3,6 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Jeffrey Cockburn
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 1
-      - name: Julia Pia Simon
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 2
-      - name: Amogh Johri
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
-      - name: Scarlet J. Cho
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Sarah Oh
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Jamie D. Feusner
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 6
-      - name: Reza Tadayonnejad
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 7
-      - name: John P. O'Doherty
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 8
       - name: Weilun Ding
         givenName: ''
         familyName: ''
@@ -68,8 +12,67 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 1
+      - name: Jeffrey Cockburn
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Julia Pia Simon
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Amogh Johri
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Scarlet J. Cho
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Sarah Oh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Jamie D. Feusner
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 7
+      - name: Reza Tadayonnejad
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 8
+      - name: John P. O'Doherty
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
         order: 9
     creators:
+      - name: Weilun Ding
+        nameType: Personal
+        nameIdentifiers: *ref_0
       - name: Jeffrey Cockburn
         nameType: Personal
       - name: Julia Pia Simon
@@ -86,9 +89,6 @@ data:
         nameType: Personal
       - name: John P. O'Doherty
         nameType: Personal
-      - name: Weilun Ding
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
