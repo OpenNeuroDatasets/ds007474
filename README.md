@@ -1,9 +1,16 @@
 # README
 
-Description:
+
+## Overview
+
 This dataset was collected to study the reinforcement learning process across individuals at the behavioral and neural level. The 2-step task is an established task to study the Markov decision-making process and here we used a variant of the task (Cockburn et al., 2024). We paired the task with the functional MRI to study the common and distinct decision-making processes across individuals using different strategies in this task. Please refer to the preprint for the task details.
 
 The participant IDs of the task are coded as sub-MBMFxxxx01 or sub-MBMFxxxx02. The four digits in the middle are the participants IDs. And the '01' or '02' at the end denotes whether participants performed the task first or second, as this 2-step task was paired with another task (which studies habit) for each participant within the same MRI session.
+
+
+The MRI scans were collected from 189 healthy controls, who did not report any history of substance/alcohol use disorder, anxiety disorder (Obsessive-Compulsive Disorder, Body Dysmorphic Disorder, generalized anxiety, social anxiety/social phobia), and/or depressive disorders (dysthymia, major depression). Furthermore, participants reported they did not use any medications for subclinical psychiatric disorders.
+
+
 
 
 - Notes on the data:
@@ -28,16 +35,3 @@ sub-MBMF021901
 John P. O'Doherty, jdoherty@caltech.edu
 
 Weilun Ding, wdding@caltech.edu  
-
-
-
-## Overview
-
-
-- Participant information:
-
-The participants in this study are healthy controls who did not report any history of substance/alcohol use disorder, anxiety disorder (Obsessive-Compulsive Disorder, Body Dysmorphic Disorder, generalized anxiety, social anxiety/social phobia), and/or depressive disorders (dysthymia, major depression). Furthermore, participants reported they did not use any medications for subclinical psychiatric disorders.
-
-
-
-
