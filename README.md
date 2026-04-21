@@ -1,9 +1,9 @@
 # README
+
 Description:
-This dataset was collected to study the reinforcement learning process across individuals at the behavioral and neural level. The 2-step task is an established task to study the Markov decision-making process. We paired the task with the functional MRI to study the common and distinct decision-making processes across individuals using different strategies in this task.
+This dataset was collected to study the reinforcement learning process across individuals at the behavioral and neural level. The 2-step task is an established task to study the Markov decision-making process and here we used a variant of the task (Cockburn et al., 2024). We paired the task with the functional MRI to study the common and distinct decision-making processes across individuals using different strategies in this task. Please refer to the preprint for the task details.
 
-The participant IDs of the task are coded as sub-MBMFxxxx01 or sub-MBMFxxxx02. The four digits in the middle are the participants ID the '01' or '02' are the task order that participants did the task, as this 2-step task was paired with another decision-making task (studying habit) for each participant within the same session.
-
+The participant IDs of the task are coded as sub-MBMFxxxx01 or sub-MBMFxxxx02. The four digits in the middle are the participants IDs. And the '01' or '02' at the end denotes whether participants performed the task first or second, as this 2-step task was paired with another task (which studies habit) for each participant within the same MRI session.
 
 
 - Notes on the data:
